@@ -1,6 +1,6 @@
 # GPS position finder
 
-## _contractor: Karol Gorlik
+## contractor: Karol Gorlik
 ## _principal: Michał Czerwiński_
 
 

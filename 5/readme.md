@@ -1,4 +1,4 @@
-#  Photo Booth
+#  facial expressions
 
 ## _contractor: Wiktor Góralski
 ## _principal: Michał Czerwiński_

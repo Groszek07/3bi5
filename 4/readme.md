@@ -60,3 +60,8 @@ A subsection that presents a detailed description of the individual functionalit
 - [SQL]
 - [MySql/MariaDb]
 - [Apache]
+## Wireframe the main form on the application subpage
+
+[Wireframe the main form][wireframeMain]
+
+ [erd]: <https://github.com/Michal3456/3bi5/blob/main/4/sprites/erd%20diagram.png>

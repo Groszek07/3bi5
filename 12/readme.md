@@ -1,4 +1,4 @@
-#  Photo Booth
+#  self-learning system
 
 ## _contractor: Maksymilian Szymański
 ## _principal: Michał Czerwiński_

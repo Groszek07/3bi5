@@ -1,4 +1,4 @@
-# CKZiU room reservation system
+# GPS 
 
 ## _contractor: Adrian Domżalski_
 ## _principal: Michał Czerwiński_

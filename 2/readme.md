@@ -1,11 +1,9 @@
-72 lines (47 sloc)  2.12 KB
-CKZiU room reservation system
-contractor: Jan Kowalski
+Photo Booth
+_contractor: Kacper Skalski
 principal: Michał Czerwiński
 dossier version	date	description
 1.0	17.11.2021	none
 1.1	17.11.2021	adding ERD
-1.2	25.11.2021	adding organizational structure
 Build Status
 
 Abstract
@@ -30,3 +28,21 @@ Entity Relationship Diagram
 link to diagram ERD in jpg
 
 Organizational structure diagram
+[link to diagram OSD in jpg][osd]
+
+Cpecific functionalities
+A subsection that presents a detailed description of the individual functionalities on which the main functionalities are based.
+
+Relational database based on SQL language
+Frot-end created in JavaScript and CSS technologies
+Back-end executed in PHP language and auxiliary scripts
+Technologies, programming languages and others
+Dillinger uses a number of open source projects to work properly:
+
+[PHP]
+[JS]
+[CSS/HTML]
+[SQL]
+[MySql/MariaDb]
+[Apache]
+[osd]

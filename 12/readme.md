@@ -66,6 +66,6 @@ Dillinger uses a number of open source projects to work properly:
 - [MySql/MariaDb]
 - [Apache]
 
- [erd]: <https://github.com/Michal3456/3bi5/blob/main/11/sprites/ERD.drawio.png>
+ [erd]: <https://github.com/Michal3456/3bi5/blob/main/12/Sprites/Untitled%20Diagram.drawio.png>
  
  [osd]

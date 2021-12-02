@@ -1,6 +1,6 @@
 # CKZiU room reservation system
 
-## _contractor: Jan Kowalski_
+## _contractor: Adrian Domżalski_
 ## _principal: Michał Czerwiński_
 
 
@@ -8,10 +8,6 @@
 | ------ | ------ | ------ |
 | 1.0 | 17.11.2021 | none |
 | 1.1 | 17.11.2021 | adding ERD |
-| 1.2 | 25.11.2021 | adding organizational structure |
-| 1.3 | 26.11.2021 | adding layout form in HTML |
-| 1.4 | 29.11.2021 | database with only tables - sketch a database without establishing a relationship |
-| 1.5 | 30.11.2021 | add wireframes |
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
@@ -68,30 +64,4 @@ A subsection that presents a detailed description of the individual functionalit
 - [MySql/MariaDb]
 - [Apache]
 
-## Layout for form in HTML
 
-[link to layout][form]
-
-## Sketch a database without establishing a relationship
-
-[link to sketch a database][db]
-
-## Example of an empty wireframe of the main form on a subpage
-
-[Wireframe empty][wireframeExample]
-
-## Wireframe the main form on the application subpage
-
-[Wireframe the main form][wireframeMain]
-
- [erd]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.jpg>
- 
- [osd]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(1).png>
- 
- [form]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(2).png>
- 
- [db]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(6).png>
- 
- [wireframeMain]: <https://github.com/Michal3456/example_project/blob/main/sprites/a_wireframe_subpage_with_the_main_application_form.jpg>
- 
- [wireframeExample]: <https://github.com/Michal3456/example_project/blob/main/sprites/wireframe%20subpage_simple.jpg>

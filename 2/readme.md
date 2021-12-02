@@ -1,7 +1,7 @@
-# CKZiU room reservation system
+#  Photo Booth
 
-## _contractor: Adrian Domżalski_
-## _principal: Michał Czerwiński_
+## _contractor: Adrian Domżalski
+## _principal: Michał Czerwiński
 
 
 | dossier version | date | description |
@@ -57,11 +57,17 @@ A subsection that presents a detailed description of the individual functionalit
 
 ## Technologies, programming languages and others
 
+Dillinger uses a number of open source projects to work properly:
+
 - [PHP]
 - [JS]
 - [CSS/HTML]
 - [SQL]
 - [MySql/MariaDb]
 - [Apache]
+
+ [erd]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.jpg>
+ 
+ [osd]
 
 

@@ -64,18 +64,10 @@ A subsection that presents a detailed description of the individual functionalit
 - [SQL]
 - [MySql/MariaDb]
 - [Apache]
-- 
-[Wireframe the main form][wireframeMain]
 
- [erd]: <https://github.com/Michal3456/3bi5/2/Sprites/ERD.png>
+
+
+ [erd]: <https://github.com/Michal3456/3bi5/blob/main/2/Sprites/ERD.png>
  
- [osd]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(1).png>
  
- [form]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(2).png>
- 
- [db]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(6).png>
- 
- [wireframeMain]: <https://github.com/Michal3456/example_project/blob/main/sprites/a_wireframe_subpage_with_the_main_application_form.jpg>
- 
- [wireframeExample]: <https://github.com/Michal3456/example_project/blob/main/sprites/wireframe%20subpage_simple.jpg>
 

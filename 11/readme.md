@@ -68,4 +68,4 @@ Dillinger uses a number of open source projects to work properly:
 
  [erd]: <https://github.com/Michal3456/3bi5/blob/main/11/sprites/ERD.drawio.png>
  
- [osd]: <>
+ [osd]: <https://github.com/Michal3456/3bi5/blob/main/11/sprites/org.drawio.png>

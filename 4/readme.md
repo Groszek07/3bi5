@@ -8,6 +8,7 @@
 | ------ | ------ | ------ |
 | 1.0 | 17.11.2021 | none |
 | 1.1 | 17.11.2021 | adding ERD |
+| 1.2 | 25.11.2021 | adding organizational structure |
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
@@ -65,3 +66,5 @@ A subsection that presents a detailed description of the individual functionalit
 [Wireframe the main form][wireframeMain]
 
  [erd]: <https://github.com/Michal3456/3bi5/blob/main/4/sprites/erd%20diagram.png>
+ [osd]: <https://github.com/Michal3456/3bi5/blob/main/4/sprites/osd.png>
+ 

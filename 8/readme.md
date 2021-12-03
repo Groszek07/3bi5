@@ -7,11 +7,9 @@
 | dossier version | date | description |
 | ------ | ------ | ------ |
 | 1.0 | 17.11.2021 | none |
-| 1.1 | 17.11.2021 | adding ERD |
-| 1.2 | 25.11.2021 | adding organizational structure |
-| 1.3 | 26.11.2021 | adding layout form in HTML |
-| 1.4 | 29.11.2021 | database with only tables - sketch a database without establishing a relationship |
-| 1.5 | 30.11.2021 | add wireframes |
+| 1.1 | 02.12.2021 | adding ERD |
+| 1.2 | 03.12.2021 | adding organizational structure |
+
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
@@ -83,7 +81,7 @@ A subsection that presents a detailed description of the individual functionalit
 
  [erd]: <https://github.com/Michal3456/3bi5/blob/main/8/sprites/ERD.png>
  
- [osd]: <>
+ [osd]: <https://github.com/Michal3456/3bi5/blob/main/8/sprites/org.drawio.png>
  
  [form]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(2).png>
  
